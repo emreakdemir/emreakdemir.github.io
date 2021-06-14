@@ -2,7 +2,7 @@
 
 Emre Akdemir
 *Yazılım Geliştirme Uzmanı*
-============
+
 Pendik, İstanbul
 [emreakdemir@outlook.com](mailto:emreakdemir@outlook.com)
 
