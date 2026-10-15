@@ -1,27 +1,34 @@
-<h1 align="center">Hi 👋, I'm Emre Akdemir</h1>
-<h3 align="center">Software Architect at Turkish Technology</h3>
+# Emre Akdemir
 
-- 👨‍💻 I’m currently working on **Turkish Technic Internal Projects**
+Software Architect & Team Lead at [Turkish Technology](https://www.turkishtechnology.com). I design .NET systems and lead the teams that build them. On the side I ship small products under [Lyconiq](https://lyconiq.com).
 
-- 🌱 I’m currently learning **Go**
+[emreakdemir.dev](https://emreakdemir.dev) · [LinkedIn](https://linkedin.com/in/emreakdemir) · [Stack Overflow](https://stackoverflow.com/users/13548895/emre-akdemir) · [me@emreakdemir.dev](mailto:me@emreakdemir.dev)
 
-- 👨‍💻 All of my projects are available at [https://www.kariyer.net/ozgecmis/akdemiremre](https://www.kariyer.net/ozgecmis/akdemiremre)
+## Products
 
-- 📫 Reach me at **emreakdemir@outlook.com**
+Built and run under [Lyconiq](https://lyconiq.com), a micro SaaS studio.
 
+| | | |
+|---|---|---|
+| [EOL Tracker](https://eol-tracker.lyconiq.com) | Expiry dates for the food, medicine and household goods at home. | Live |
+| [stadiu-m](https://stadiu-m.lyconiq.com) | Match planning, attendance polls, balanced line-ups and the cash box for your weekly game. | Live |
+| [Matchier](https://matchier.net) | Context-aware matching on mobile, one persona per context. | Waitlist |
+| [İZAN](https://lyconiq.com/en/products/izan) | A control room that shows every AI agent you run on one screen. | Waitlist |
+| [Friction Radar](https://lyconiq.com/en#products) | Turns the hidden bottlenecks in your delivery flow into measurable signals. | Waitlist |
+| [Policy Pulse](https://lyconiq.com/en#products) | Lightweight governance for AI-assisted changes, with an audit-friendly trail. | Waitlist |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emreakdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emreakdemir" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/emreakdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emreakdemir" height="30" width="40" /></a>
-</p>
+## Open source
 
-<div align="center">
-<a href="https://app.daily.dev/emreakdemir"  target="blank">
-    <img  align="center" src="https://github.com/emreakdemir/emreakdemir/blob/main/devcard.svg" width="350" alt="Emre Akdemir's Dev Card"/>
-</a>
-</div>
+- [HeroKit](https://github.com/emreakdemir/HeroKit) — extension methods for .NET: validation, conversion and manipulation of everyday types. MIT, on [NuGet](https://www.nuget.org/packages/HeroKit).
+- [configuration-library](https://github.com/emreakdemir/configuration-library) — Redis-backed dynamic configuration for .NET services, with a management API.
+- [clean-code-examples](https://github.com/emreakdemir/clean-code-examples) — C# examples from my Clean Code talk at ACM Ankara.
+- [angular-dynamic-form-creator](https://github.com/emreakdemir/angular-dynamic-form-creator) — build Angular forms from a JSON definition.
 
+## Writing
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- [Teknik Liderin Pusulası: Naziklik Bir Stratejidir](https://emreakdemir.medium.com/teknik-liderin-pusulasi-naziklik-bir-stratejidir-21e0a9f35dd4) (TR)
+- [Beyond the Code: 7 Lessons from Team Coaching in Software Development](https://emreakdemir.medium.com/beyond-the-code-7-powerful-lessons-from-team-coaching-in-software-development-133b64b92ef2)
+- [Web API Tasarımı: Temel Prensipler ve Pratikler](https://emreakdemir.medium.com/web-api-tasar%C4%B1m%C4%B1-temel-prensipler-ve-pratikler-1461c037c39c) (TR)
+- [Clean Code & Key Principles](https://emreakdemir.medium.com/clean-code-key-principles-63ac1c492162)
+
+More at [emreakdemir.dev](https://emreakdemir.dev). Ask me about .NET architecture, API design and leading engineering teams.
